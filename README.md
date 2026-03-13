@@ -33,12 +33,6 @@ I care deeply about accessibility and inclusive product design. I was born with 
 
 ## Featured Work
 
-- [**fedle**](https://github.com/danielors/fedle)  
-  Daily federal-agency word puzzle inspired by Wordle, built as a public TypeScript project.
-
-- [**hyper**](https://github.com/danielors/hyper)  
-  Fork and customization work on the Electron/TypeScript terminal ecosystem.
-
 - **Policy-change processing pipeline (professional project)**  
   Built Python automation to parse, enrich, and summarize policy changes at scale for federal stakeholders.
 
